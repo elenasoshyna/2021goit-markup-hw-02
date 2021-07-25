@@ -200,4 +200,6 @@ span {
 .examples-text {
   font-family: Roboto;
   color: var(--primary-text-color);
+  color: rgb(0, 0, 0);
+  
 }
